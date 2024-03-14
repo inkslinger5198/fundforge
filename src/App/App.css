@@ -35,7 +35,7 @@
   display: flex;
   background: linear-gradient(
     360deg,
-    #000000 50%,
+    var(--high) 50%,
     rgba(48, 71, 222, 0.327) 100%
   );
   mix-blend-mode: difference;

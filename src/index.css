@@ -2,9 +2,10 @@
 
 :root {
   --font-family: "Montserrat", sans-serif;
-  --low: #f3f4f5;
+  --low: #161616;
   --lowish: rgba(235, 233, 233, 0.498);
-  --high: #000000;
+  --high: #f3f4f5;
+  --mid: grey;
   --blue: #00b0ff;
   --greyish: rgba(124, 125, 135, 0.135);
   --opacity-blue: #00aeff48;
