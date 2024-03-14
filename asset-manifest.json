@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fundforge/static/css/main.ba4d0b06.css",
-    "main.js": "/fundforge/static/js/main.4a324cf5.js",
+    "main.css": "/fundforge/static/css/main.6503bb94.css",
+    "main.js": "/fundforge/static/js/main.deff7a11.js",
     "index.html": "/fundforge/index.html",
-    "main.ba4d0b06.css.map": "/fundforge/static/css/main.ba4d0b06.css.map",
-    "main.4a324cf5.js.map": "/fundforge/static/js/main.4a324cf5.js.map"
+    "main.6503bb94.css.map": "/fundforge/static/css/main.6503bb94.css.map",
+    "main.deff7a11.js.map": "/fundforge/static/js/main.deff7a11.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba4d0b06.css",
-    "static/js/main.4a324cf5.js"
+    "static/css/main.6503bb94.css",
+    "static/js/main.deff7a11.js"
   ]
 }
