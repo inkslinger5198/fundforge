@@ -1,0 +1,23 @@
+.thesis-containers
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+
+.thesis-container
+{
+    width: 45%;
+    margin-bottom: 4rem;
+    
+}
+
+.thesis-container .container-box
+{
+    height: 20rem;
+    text-align: center!important;
+}
